@@ -48,15 +48,18 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
+	weight = 30
         url = "https://milko.pe"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
+	weight = 40
         url = "/showcase"
 
      [[languages.en.menu.main]]
         identifier = "$cd/fm"
         name = "$cd/fm"
+	weight = 50
         url = "https://cmd.to/fm"
 
 
